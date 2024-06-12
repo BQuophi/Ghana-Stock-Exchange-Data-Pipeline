@@ -20,3 +20,8 @@ The pipeline is designed to:
 4. Amazon EC2 : Create an instance on which Aiflow runs
 5. Amazon S3: Raw data storage.
 
+## Prerequisites
+- AWS Account with appropriate permissions for EC2 and S3.
+- GSE API access.
+- Python 3.9 or higher
+
